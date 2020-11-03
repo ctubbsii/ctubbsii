@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![I voted][mdvote]
+![I voted][voted]
+
 <!--
 **ctubbsii/ctubbsii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[mdvote]: https://elections.maryland.gov/elections/2020/MD-I-Voted-Sticker1_icon.png
+[voted]: https://user-images.githubusercontent.com/3104489/97828882-616ae680-1c96-11eb-8110-4f39349b4033.gif
